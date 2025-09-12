@@ -9,16 +9,41 @@ body,
 }
 
 body {
-  background-color: rgb(223, 142, 49);
+  background-color: rgb(255, 162, 56);
   color: black;
   font-family: Arial, sans-serif;
   text-align: center;
+  
 }
 
     h1 {
       font-size: 80px;
-      text-align: center;
       font-family: "Asimovian", sans-serif;
       font-weight: 400;
       font-style: normal;
+      margin-bottom: 20px;
     }
+
+    .firstclass{
+      font-size: 30px;
+    margin-top: 20px;
+    }
+
+    h2 {
+      font-size: 25px;
+      margin-bottom: 50px;
+      margin-top: 50px;
+
+
+    }
+
+    h6{ 
+
+      border: 1px solid rgb(153, 27, 27);
+      margin: 10px;
+      padding: 15px;
+      border-width: 2px;
+      margin-bottom: 50px;
+      margin-top: 50px;
+    }
+
